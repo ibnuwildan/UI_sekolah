@@ -1,0 +1,20 @@
+.mycard {
+  background-color: rgb(233, 233, 233) !important;
+  width: 20rem;
+  border-radius: 35px !important;
+  border-color: transparent !important;
+}
+
+.mycard img {
+  border-radius: 35px;
+}
+
+.cardkegiatan {
+  background-color: rgb(233, 233, 233) !important;
+  border-radius: 35px !important;
+  border-color: transparent !important;
+}
+
+.cardkegiatan img {
+  border-radius: 35px;
+}
