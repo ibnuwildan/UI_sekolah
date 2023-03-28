@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UI_sekolah/static/css/main.1f7fd251.css",
+    "main.js": "/UI_sekolah/static/js/main.c7166f24.js",
+    "static/js/787.99f5c127.chunk.js": "/UI_sekolah/static/js/787.99f5c127.chunk.js",
+    "static/media/carousel3.jpg": "/UI_sekolah/static/media/carousel3.6da75fbd7bdbd9741b8e.jpg",
+    "static/media/carousel2.jpg": "/UI_sekolah/static/media/carousel2.2435f0edbd9a420d162f.jpg",
+    "static/media/carousel1.jpg": "/UI_sekolah/static/media/carousel1.60aa7d6937eec3276ca6.jpg",
+    "static/media/card4.jpg": "/UI_sekolah/static/media/card4.8e87dbab47eb11dd560b.jpg",
+    "static/media/card2.jpg": "/UI_sekolah/static/media/card2.943cb0ff1934606efd74.jpg",
+    "static/media/card1.jpg": "/UI_sekolah/static/media/card1.d705ae8f73fd9c385d1f.jpg",
+    "static/media/card3.jpg": "/UI_sekolah/static/media/card3.0e261f5d18a063c4ab95.jpg",
+    "static/media/logo.png": "/UI_sekolah/static/media/logo.8a4d70bdce57fb0c018f.png",
+    "static/media/card6.jpeg": "/UI_sekolah/static/media/card6.2f8beef62fd90a55c274.jpeg",
+    "static/media/card5.jpeg": "/UI_sekolah/static/media/card5.9be44d24b94cb2d13279.jpeg",
+    "index.html": "/UI_sekolah/index.html",
+    "main.1f7fd251.css.map": "/UI_sekolah/static/css/main.1f7fd251.css.map",
+    "main.c7166f24.js.map": "/UI_sekolah/static/js/main.c7166f24.js.map",
+    "787.99f5c127.chunk.js.map": "/UI_sekolah/static/js/787.99f5c127.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7fd251.css",
+    "static/js/main.c7166f24.js"
+  ]
+}
